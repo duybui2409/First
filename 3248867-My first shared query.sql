@@ -1,4 +1,4 @@
-GRANT ALL ON SCHEMA public TO public;
+GRANT ALL ON SCHEMA public TO p;
 CREATE TABLE student (
     student_id INT,
     name VARCHAR(20),
